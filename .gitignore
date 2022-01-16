@@ -1,0 +1,5 @@
+/hito_login.db
+/picture_db.sqlite
+__pycache__/
+.idea/
+dlib
